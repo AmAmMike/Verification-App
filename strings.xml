@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VBAria Code Verifier</string>
+    <string name="Comment1_Text">لطفا کد چاپ شده در سمت چپ بالای صفحه گزارش را به طور کامل در پایین وارد کرده و سپس دکمه \"اعتبارسنجی\" را بزنید.</string>
+    <string name="InputCode_Hint">VBAria.xxxxx.xxxxx</string>
+    <string name="VerifyButton_Text">اعتبارسنجی</string>
+    <string name="ResultAccept_Text">گزارش معتبر می باشد.</string>
+    <string name="ResultReject_Text">گزارش نا معتبر می باشد.</string>
+</resources>
